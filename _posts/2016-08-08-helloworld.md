@@ -19,3 +19,5 @@ var i = 0;
 
 asf
 asdfasfdsaf
+
+http://yanshuo.io/assets/player/?deck=574e6e1b2e958a00693d48d6#/
